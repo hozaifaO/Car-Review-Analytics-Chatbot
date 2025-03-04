@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+joblib
+shap
+faiss-cpu  # or faiss-gpu if using GPU
+sentence-transformers
+pydantic
+scikit-learn  
